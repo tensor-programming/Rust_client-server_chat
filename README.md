@@ -1,10 +1,10 @@
 # Rust_client-server_chat
 
-# A simple rust client/server chat program 
+# In this tutorial, we take a look at how we can build a simple web assembly library using Rust and Wasm Bindgen
 
-## Run `cargo run` to run the app, run `cargo build` to build an executable file. 
+## Run `yarn install` and then run `yarn serve` to start the server and run the application. 
 
-### Check out the Youtube Tutorial for this [Rust Tutorial](https://youtu.be/CIhlfJSvxe4).  Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
+### Check out the Youtube Tutorial for this [Rust Tutorial](https://youtu.be/yEiGVCF99tA).  Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
 
 ### Check out our blog at [tensor-programming.com](http://tensor-programming.com/).
 
